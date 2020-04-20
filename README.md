@@ -1,4 +1,4 @@
-# GDIndex
+# GDIndex - Gazi Üni. Bölüm Dosya Paylaşım Edition
 
 ![preview](https://i.imgur.com/ENkZwCU.png)
 
