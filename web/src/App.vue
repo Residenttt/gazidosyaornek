@@ -37,6 +37,7 @@
 			<v-spacer />
 			<v-toolbar-items>
 				<v-switch
+					style="display: flex; align-items: center"
 					v-model="$vuetify.theme.dark"
 					hide-details
 					inset
